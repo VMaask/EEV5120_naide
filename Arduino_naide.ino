@@ -4,6 +4,7 @@
  * Autor: Vahur Maask
  * Kuupäev: 28.11.2020
  * Versioon: v1.0
+ * Muudatus
  */
 
 // Defineerime sisendid ja väljundid
